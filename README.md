@@ -68,6 +68,15 @@ Se priorizaron artículos que abordan directamente la evaluación, medición, in
 
 ## Distribución temporal
 
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6366f1', 'primaryTextColor':'#fff', 'primaryBorderColor':'#4f46e5', 'lineColor':'#6366f1', 'secondaryColor':'#818cf8', 'tertiaryColor':'#c7d2fe'}}}%%
+xychart-beta
+    title "Distribución de artículos por año (2022-2025)"
+    x-axis [2022, 2023, 2024, 2025]
+    y-axis "Número de artículos" 0 --> 65
+    bar [7, 7, 61, 44]
+```
+
 - 2022: 7 artículos
 - 2023: 7 artículos
 - 2024: 61 artículos
