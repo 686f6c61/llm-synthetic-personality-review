@@ -69,7 +69,7 @@ Se priorizaron artículos que abordan directamente la evaluación, medición, in
 ## Distribución temporal
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6366f1', 'primaryTextColor':'#fff', 'primaryBorderColor':'#4f46e5', 'lineColor':'#6366f1', 'secondaryColor':'#818cf8', 'tertiaryColor':'#c7d2fe'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#333333', 'primaryTextColor':'#000000', 'primaryBorderColor':'#000000', 'lineColor':'#000000', 'secondaryColor':'#666666', 'tertiaryColor':'#999999', 'background':'#ffffff'}}}%%
 xychart-beta
     title "Distribución de artículos por año (2022-2025)"
     x-axis [2022, 2023, 2024, 2025]
