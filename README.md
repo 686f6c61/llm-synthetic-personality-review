@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio contiene una revisión sistemática de la literatura académica sobre la evaluación psicológica y manifestación de rasgos de personalidad en modelos de lenguaje grandes (LLMs, por sus siglas en inglés). La compilación abarca 81 artículos científicos publicados entre 2022 y 2025, proporcionando un análisis exhaustivo del estado actual de la investigación en este campo emergente.
+Este repositorio contiene una revisión sistemática de la literatura académica sobre la evaluación psicológica y manifestación de rasgos de personalidad en modelos de lenguaje grandes (LLMs, por sus siglas en inglés). La compilación abarca 119 artículos científicos publicados entre 2022 y 2025, proporcionando un análisis exhaustivo del estado actual de la investigación en este campo emergente.
 
 ## Contenido
 
@@ -61,17 +61,17 @@ Se priorizaron artículos que abordan directamente la evaluación, medición, in
 
 ## Estadísticas
 
-- Total de artículos: 81
+- Total de artículos: 119
 - Rango temporal: 2022-2025
 - Idioma de publicación: inglés (100%)
-- Artículos con texto completo disponible: 81 (100%)
+- Artículos con texto completo disponible: 119 (100%)
 
 ## Distribución temporal
 
-- 2022: 2 artículos
-- 2023: 15 artículos
-- 2024: 38 artículos
-- 2025: 26 artículos
+- 2022: 7 artículos
+- 2023: 7 artículos
+- 2024: 61 artículos
+- 2025: 44 artículos
 
 ## Uso y citación
 
