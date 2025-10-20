@@ -69,19 +69,18 @@ Se priorizaron artículos que abordan directamente la evaluación, medición, in
 ## Distribución temporal
 
 ```mermaid
-%%{init: {'theme':'neutral', 'themeVariables': { 'primaryColor':'#000000', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#000000', 'lineColor':'#000000', 'secondaryColor':'#333333', 'tertiaryColor':'#666666'}}}%%
-graph TD
-    A["Distribución de artículos por año"]
-    A --> B["2022: 7 artículos"]
-    A --> C["2023: 7 artículos"]
-    A --> D["2024: 61 artículos"]
-    A --> E["2025: 44 artículos"]
-
-    style A fill:#000,stroke:#000,color:#fff
-    style B fill:#000,stroke:#000,color:#fff
-    style C fill:#000,stroke:#000,color:#fff
-    style D fill:#000,stroke:#000,color:#fff
-    style E fill:#000,stroke:#000,color:#fff
+---
+config:
+  themeVariables:
+    xyChart:
+      backgroundColor: "#ffffff"
+      plotColorPalette: "#000000, #000000, #000000, #000000"
+---
+xychart-beta
+    title "Distribución de artículos por año (2022-2025)"
+    x-axis [2022, 2023, 2024, 2025]
+    y-axis "Número de artículos" 0 --> 65
+    bar [7, 7, 61, 44]
 ```
 
 - 2022: 7 artículos
